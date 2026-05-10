@@ -2,6 +2,7 @@
 
 - [FlClash-0.8.92-android-arm64-v8a](./FlClash-0.8.92-android-arm64-v8a)
 - [FlClash-0.8.92-windows-amd64](./FlClash-0.8.92-windows-amd64)
+- [Happ](./Happ)
 - [Xray-android-arm64-v8a](./Xray-android-arm64-v8a)
 - [driversdetails](./driversdetails)
 - [setup-Happ.x64](./setup-Happ.x64)
