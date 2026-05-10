@@ -5,6 +5,7 @@
 - [Happ](./Happ)
 - [Xray-android-arm64-v8a](./Xray-android-arm64-v8a)
 - [driversdetails](./driversdetails)
+- [incy-windows-portable](./incy-windows-portable)
 - [setup-Happ.x64](./setup-Happ.x64)
 - [update_android_arm](./update_android_arm)
 - [update_windows_x64](./update_windows_x64)
